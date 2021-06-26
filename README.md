@@ -7,7 +7,7 @@ Team members:
 * Nicholas Hildenbrand, nhilden@bu.edu
 
 Slides:
-* //
+* [Presentation](https://docs.google.com/presentation/d/19Hggoo2K1bJLmPTwurCvEA5fHauHIlUo/edit#slide=id.gd23168b479_0_29)
 
 ## <ins>Running the script</ins>
 1. run `python prep.py` to convert 'dicom file' to 'numpy array'
@@ -18,5 +18,3 @@ Slides:
 ![result_0](https://user-images.githubusercontent.com/60196280/123520314-1fa40b80-d67e-11eb-9955-cd5701abae89.png)
 ![result_2](https://user-images.githubusercontent.com/60196280/123520338-3ba7ad00-d67e-11eb-98c1-70d6848c121b.png)
 
-## <ins>References</ins>
-???
