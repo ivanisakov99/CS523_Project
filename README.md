@@ -1,6 +1,5 @@
 # RED_CNN
-// reference to the original github page, i think???
-
+This work is directly adapted from the implementation of [Low-Dose CT with a Residual Encoder-Decoder Convolutional Neural Network (RED-CNN)](https://arxiv.org/ftp/arxiv/papers/1702/1702.00288.pdf), which is located in this repo:
 https://github.com/SSinyu/RED-CNN
 
 Team members:
