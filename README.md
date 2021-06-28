@@ -21,3 +21,5 @@ Slides:
 ## <ins>References</ins>
 * Low-Dose CT with a Residual Encoder-Decoder Convolutional Neural Network (RED-CNN), Chen et al. (https://arxiv.org/ftp/arxiv/papers/1702/1702.00288.pdf)
 * RED_CNN implementation (https://github.com/SSinyu/RED-CNN)
+* Image Dataset (https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)
+* Grand Challenge (https://www.aapm.org/GrandChallenge/LowDoseCT/#patientData)
