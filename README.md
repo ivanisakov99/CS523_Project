@@ -18,3 +18,6 @@ Slides:
 ![result_0](https://user-images.githubusercontent.com/60196280/123520314-1fa40b80-d67e-11eb-9955-cd5701abae89.png)
 ![result_2](https://user-images.githubusercontent.com/60196280/123520338-3ba7ad00-d67e-11eb-98c1-70d6848c121b.png)
 
+## <ins>References</ins>
+* Low-Dose CT with a Residual Encoder-Decoder Convolutional Neural Network (RED-CNN), Chen et al. (https://arxiv.org/ftp/arxiv/papers/1702/1702.00288.pdf)
+* RED_CNN implementation (https://github.com/SSinyu/RED-CNN)
