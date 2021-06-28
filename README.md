@@ -13,14 +13,23 @@ Slides:
 1. The reproduction of this project must be in done using a GPU in the SCC. 
 2. Navigate to the SCC in the browser and select desktop from the interactive apps drop down.
 3. Fill in the following:
+
     List of modules to load (space separated): python3/3.8.6 pytorch/1.7.0
+    
     Working Directory: /projectnb/cs523/Niko_Ivan
+    
     Initial command to run: xfce4-terminal
+    
     Number of hours: 5
+    
     Number of cores: 1
+    
     Number of gpus: 1
+    
     GPU compute capability: 6.0
+    
     Project: cs523
+    
 4. run `module load python3/3.8.6`
 5. run `module load pytorch`
 6. run `python prep.py` to convert 'dicom file' to 'numpy array'
